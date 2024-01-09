@@ -1,0 +1,14 @@
+#aboutSection{
+    background-image: url(./images/Bg\ \(2\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#aboutSection2{
+    background-image: url(./images/Bg\ \(smaller\).png);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
